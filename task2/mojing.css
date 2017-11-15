@@ -1,0 +1,46 @@
+body {
+	background-color: #68cdd5;
+	font-size: 62.5%;
+	margin: 0;
+}
+#box {
+	padding: 10% 12% 10% 12%;
+}
+h1 {
+	text-align: center;
+	padding: 0 0 8rem 0;
+}
+#logo {
+	height: 3em;
+}
+#fotter {
+    padding: 5rem 0 0 0;
+}
+#left {
+	float: left;
+	color: white;
+}
+#right {
+	float: right;
+	color: white;
+}
+#logo2 {
+	height: 5em;
+}
+#logo3 {
+	height: 5em;
+}
+h2 {
+	color: white;
+	font-size: 1.6em;
+
+}
+#back {
+	background-image: url(images/jiantou.png);
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	width: 3em;
+	height: 3em;
+	background-size: 3em;
+}
